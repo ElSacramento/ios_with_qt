@@ -1,0 +1,7 @@
+Connection = "keep-alive";
+"Content-Length" = 830;
+"Content-Type" = "application/json;charset=utf-8";
+Date = "Fri, 02 Oct 2015 09:44:56 GMT";
+Server = "nginx/1.7.6";
+
+{"aimId":"689924120", "friendly":"Maria Zuleica", "state":"mobile", "onlineTime":1398020, "presenceIcon":"http://yabs.yandex.ru/count/Aw3V9msNo8W40002gP0088wpBkLW1L6L0fi6QLg8jHyY1mUcX0cAkn0ovmAg0gMhAdi5aRpGIMG6auKDGQxw6fp9GH0S8GMn0RlnGGEL0QusFmB1__________yFnOyFqm9-2W00", "displayId":"Maria Zuleica", "firstName":"Maria", "lastName":"Zuleica", "friendlyName":"Maria Zuleica", "gender":"unknown", "education":"unknown", "relationshipStatus":"unknown", "children":0, "religion":"unknown", "sexualOrientation":"unknown", "smoking":"false", "hairColor":"unknown", "online":"false", "photo":"false"}
